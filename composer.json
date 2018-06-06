@@ -1,0 +1,15 @@
+{
+  "name": "haonv01/RV-GTM",
+  "description": "",
+  "type": "magento-2-module",
+  "version": "1.5.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Review Magento Google Tag Manager",
+      "email": "haonv@mageplaza.com",
+      "homepage": "https://www.mageplaza.com/review/google-tag-manager/",
+      "role": "Founder"
+    }
+  ]
+}
